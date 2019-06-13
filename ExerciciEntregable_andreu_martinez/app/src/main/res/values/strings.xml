@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExerciciEntregable_andreu_martinez</string>
+    <string name="textName">Name:</string>
+    <string name="editName">NAME</string>
+    <string name="textSurname">Surname:</string>
+    <string name="editSurname">SURNAME</string>
+    <string name="textWeb">Web:</string>
+    <string name="editWeb">WEB</string>
+    <string name="textPhone">Phone:</string>
+    <string name="editPhone">PHONE</string>
+    <string name="buttonShow">Show</string>
+    <string name="buttonDelete">Delete</string>
+    <string name="deleteContents">Delete all contents?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="errorName">NAME ERROR!!!</string>
+    <string name="errorSurname">SURNAME ERROR!!!</string>
+    <string name="errorWeb">WEB ERROR!!!</string>
+    <string name="errorPhone">PHONE ERROR!!!</string>
+    <string name="count">Count:</string>
+</resources>
